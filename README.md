@@ -3,7 +3,37 @@ The Tahmasbi Industries Electromagnetic Supercomputer System!
 
 Initally started as a school project, i had the ambition to create an Operating System. So I proudly present to you a python based CLI Operating System that is able to run on real hardware (or within an IDE its up to you)!
 
+DEPENDENCIES:
+- FOR RASPBERRY PI 1 AND 2 USERS: YOUR DEVICE IS TOO OLD AND EVEN IF YOU HAVE THE LATEST VERSION YOU WILL NOT BE ABLE TO INSTALL THESE IMPORTS AS THE ARCHITECTURE IS NOT SUPPORTED.
+- Please install these imports using 'pip install', do not be alarmed if it cannot find the import, that just means its already bundled with your python version.
+- random and time are already included with Python.
+- webbrowser
+- shutil
+- pathlib
+- colorama
+- contextlib
+- io
+- cryptography
+- pandas
+- os
+- sys
+- psutil
+- speedtest
+- socket
+- requests
+- pwinput
+- getpass
+- faker
+- string
+- phonenumbers
+- yfinance
+- wikipedia
+- numpy
+- datetime
+- re
+
 RELEASE NOTES:
+
 Version 1.0:
 - Inital release.
 - Basic hardwired commands that could not be changed.
