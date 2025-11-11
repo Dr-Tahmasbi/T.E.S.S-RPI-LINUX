@@ -1,0 +1,35 @@
+Thank you for downloading TESS OS Version 8.1 STABLE.
+As of version 7.0, I have added a fully functional file and DIR system to make it a fully fledged 'OS' and to make creating and managing documents easier.
+There are also more games for you to enjoy, you can check these out by running the command 'Play'.
+I hope you enjoy your experience with us at Tahmasbi Industries
+Much Love From: Dr Tahmasbi.
+
+RELEASE NOTES:
+
+Version 1.0:
+- Initial release.
+- Basic hardwired commands that could not be changed.
+
+Version 2.0 - 7.0:
+- Unfortunately lost media.
+
+Version 7.0:
+[MAJOR UPDATE]
+- Integrated a fully function dir tree system.
+- User is able to add their own files into their user folder (i.e .py and .txt files) and view/run them within T.E.S.S
+
+Version 8.0:
+- Fixed news API.
+- Separated apps and games into separate folders.
+
+Version 8.1:
+- Fixed fatal import errors.
+
+Version 1701:
+- Removed her free will.
+- She's no longer evil.
+
+Version vRPIos:
+- Add support for Linux based systems.
+- Tested on multiple Raspberry PIs by installing a basic CLI os such as Raspbian LITE and setting main.py to run at
+  startup whilst bypassing the main system's login to make T.E.S.S act as the 'host' OS.
