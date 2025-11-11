@@ -35,7 +35,7 @@ DEPENDENCIES:
 RELEASE NOTES:
 
 Version 1.0:
-- Inital release.
+- Initial release.
 - Basic hardwired commands that could not be changed.
 
 Version 2.0 - 7.0:
