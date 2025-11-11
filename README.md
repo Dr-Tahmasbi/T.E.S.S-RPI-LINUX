@@ -48,7 +48,7 @@ Version 7.0:
 
 Version 8.0:
 - Fixed news API.
-- Seperated apps and games into seperate folders.
+- Separated apps and games into separate folders.
 
 Version 8.1:
 - Fixed fatal import errors.
