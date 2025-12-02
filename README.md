@@ -61,6 +61,6 @@ Version vRPIos:
 - Add support for Linux based systems.
 - Tested on multiple Raspberry PIs by installing a basic CLI os such as Raspbian LITE and setting main.py to run at startup whilst bypassing the main system's login to make T.E.S.S act as the 'host' OS.
 
-THIS IS THE LINUX/UNIX BASED VERSION OF T.E.S.S! WILL ONLY RUN ON NT SYSTEMS! FOR NT BASED SYSTEMS PLEASE SEE: https://github.com/Dr-Tahmasbi/T.E.S.S
+THIS IS THE LINUX/UNIX BASED VERSION OF T.E.S.S! WILL ONLY RUN ON LINUX/UNIX BASED SYSTEMS! FOR NT BASED SYSTEMS PLEASE SEE: https://github.com/Dr-Tahmasbi/T.E.S.S
 
 PROPERTY OF TAHMASBI INDUSTRIES, LICENCE INCLUDED.
